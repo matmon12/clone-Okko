@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/matmon12/clone-Okko?color=903db1">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/matmon12/clone-Okko?color=e27227">
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/matmon12/clone-Okko?color=d36449">
 
