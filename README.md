@@ -1,4 +1,4 @@
-<h1 align="center">Portfolio</h1>
+<h1 align="center">Clone Okko</h1>
 <div align="center" id="top">
 <img src="./src/img/screen.png" alt="logo" >
 </div>
@@ -6,15 +6,15 @@
 
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/matmon12/Portfolio?color=903db1">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/matmon12/clone-Okko?color=903db1">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/matmon12/Portfolio?color=d36449">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/matmon12/clone-Okko?color=d36449">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/matmon12/Portfolio?color=4cc71e">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/matmon12/clone-Okko?color=4cc71e">
 
-  <img alt="License" src="https://img.shields.io/github/license/matmon12/Portfolio?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/matmon12/clone-Okko?color=56BEB8">
 
-  <img alt="Github stars" src="https://img.shields.io/github/stars/matmon12/Portfolio?color=56BEB8" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/matmon12/clone-Okko?color=56BEB8" />
 </p>
 
 
@@ -32,20 +32,22 @@
 
 ## :dart: About
 
-Portfolio site for layout designer. Designed to demonstrate the skills and work of a layout designer. The works are real, links to github repositories are posted. There is also a feedback form (sending emails using PHPMailer).
+The website is a clone of the Okko website, some elements of the ivi website interface are also taken. The use of video on the site and interaction with it was implemented. A custom video player was made.
 
 ## :sparkles: Features
 
-:heavy_check_mark: Implementing a side menu;\
-:heavy_check_mark: Sending emails using PHPMailer;\
-:heavy_check_mark: Dark and light themes;\
-:heavy_check_mark: Adaptive for mobile devices;
+:heavy_check_mark: Custom video player;\
+:heavy_check_mark: Video slider, sound button;\
+:heavy_check_mark: Adaptive for mobile devices;\
+:heavy_check_mark: Star rating;\
+:heavy_check_mark: Functional movie card;
 
 ## :rocket: Technologies
 
 The following tools were used in this project:
 
-- [PHPMailer](https://github.com/PHPMailer/PHPMailer)
+- [Swiper](https://swiperjs.com/)
+- [Video.js](https://videojs.com/)
 
 ## :white_check_mark: Requirements
 
@@ -55,10 +57,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/matmon12/Portfolio
+$ git clone https://github.com/matmon12/clone-Okko
 
 # Access
-$ cd Portfolio
+$ cd clone-Okko
 
 # Install dependencies
 $ npm install
